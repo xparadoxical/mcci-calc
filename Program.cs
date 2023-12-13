@@ -4,7 +4,6 @@ for (int dailyClaims = 1; dailyClaims <= 7; dailyClaims++)
 {
     Console.WriteLine($"{dailyClaims} daily claim(s):");
     Console.WriteLine("XP");
-    int claimIndex = 0;
     int totalPoints = 0;
 
     for (int level = 0; level < 50; level++)
