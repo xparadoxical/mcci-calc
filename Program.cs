@@ -1,4 +1,4 @@
-﻿var costs = new int[] { 750, 1000, 1250, 1500, 2000, 2500, 3000 };
+﻿var costs = new int[] { 100, 500, 1000, 1500, 2000, 3000, 4000 };
 
 for (int dailyClaims = 1; dailyClaims <= 7; dailyClaims++)
 {
